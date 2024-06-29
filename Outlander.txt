@@ -1,0 +1,56 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E01" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/6dd044d959ad1bd30713b3f01a837c85.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E01
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197514.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E02" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/6601e83c05aedb048553b805f6c5dfe9.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E02
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197515.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E03" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/ed0c5b83147d50f696798d1abf12ee76.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E03
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197516.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E04" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/e02a448db31f0c89009be1cbb40b0844.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E04
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197517.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E05" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/c1a142c972563586f49a48214f26a994.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E05
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197518.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E06" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9ccc2c67e52604f92485f2eb5f0a304a.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E06
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197519.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E07" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/04f0aa3b53a92803b288b0d7098a6b4a.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E07
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197520.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E08" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9b352007f9384dcddc27c914aaf30db9.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E08
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197521.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E09" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/1ed694f6ef5dff34ca650a49d642b545.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E09
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197522.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E10" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/012f9b77c7423cb5fa8a3feaada32846.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E10
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197523.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E11" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/9bc0d9f50adf63eefb1f2346ba8454c5.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E11
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197524.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S05 E12" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/d20f8ff7f13cd24187283eaaaea840df.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S05 E12
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197525.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E01" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b2e0110e430313aa87a8dff3939b677e.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E01
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197526.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E02" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/33e2966c4fb9204c2c444868fa07b7a8.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E02
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197527.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E03" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/625dec7cad61fcf08914107e51a64905.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E03
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197528.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E04" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/175bb196dbfd93eb792cd4cbe38c150e.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E04
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197529.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E05" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/e30d3b34cb2e1a24d1c30c90640e8999.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E05
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197530.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E06" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/97ae6812e5adfca905980cfdd8c6672a.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E06
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197531.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E07" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/50d7f005f148338594e6fc875c0b9f00.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E07
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197532.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S06 E08" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/bce8d2fae2d0fe4f55cf997cf979e51d.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S06 E08
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197533.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E01" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/4fdb16a94014cda591d87d5d3c51eaec.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E01
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197534.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E02" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/0c3e7e009dc72534b14bbccf955d9448.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E02
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197535.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E03" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/5696da1d12db91cc89f8e4eab4a32db5.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E03
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197536.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E04" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/30c2046fc5aff6e6f8c324dd22e56e6c.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E04
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197537.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E05" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/a9f733ebf2eafdd87a1a4f1da3b70b5c.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E05
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197538.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E06" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b7e386f4fbae15c2f2550f1e5640dd8b.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E06
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197539.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E07" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b699e1928a93538186947a6199cdf6e1.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E07
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197540.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Outlander S07 E08" tvg-logo="http://gw-01ycr1zdt8.com:8080/images/statics/b1d01605bc8198692ffd759fc724d54e.jpg" group-title="EN - Sci-Fi & Fantasy",Outlander S07 E08
+http://trial.123gate.org:8080/series/TV-700256317604/762006366733/197541.mkv
